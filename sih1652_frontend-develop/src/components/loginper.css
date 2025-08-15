@@ -1,0 +1,15 @@
+.person{
+  position: absolute;
+  top: 25px;
+   right: 1px;
+   display: flex;
+   width: 460px;
+   height: 30px;
+}
+.person i{
+  width: 40%;
+  color: #fa0a0a;
+}
+.back{
+  margin-top: 60px;
+}

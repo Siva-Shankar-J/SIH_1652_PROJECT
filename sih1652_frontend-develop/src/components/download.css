@@ -1,0 +1,13 @@
+.bt {
+  background-color: rgb(245, 250, 255);
+  border: none;
+  color: rgb(64, 198, 73);
+  /* padding: 12px 30px; */
+  cursor: pointer;
+  font-size:22px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}

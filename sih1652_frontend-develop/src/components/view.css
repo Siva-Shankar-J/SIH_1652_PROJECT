@@ -1,0 +1,106 @@
+ /* General Styles */
+ .far {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  width: 100%;
+  min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    background-image: url("../components/utils/ftuy15.jpg");
+   align-items: center;
+}
+.hjy {
+  min-width:100%;
+  margin: auto;
+  border-radius: 15px;
+  padding-bottom: 48px;
+}
+.head {
+  text-align: center;
+  padding: 30px;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: #1d5788f5;
+}
+header h1 {
+  margin: 0;
+  font-size: 2.8em;
+  color: antiquewhite;
+}
+.form-container {
+  margin: 35px auto;
+  padding-bottom: 48px;
+  background-color: rgba(255, 255, 255, 0.751);
+  border-radius: 20px ;
+  align-self: auto;
+   max-width: 920px;
+   border: 2px solid #b4b1b1;
+  text-align: left;
+}
+.siva{
+    border-bottom: 3px solid #c78ecb;
+    width:97%;
+    margin-left: 10px; 
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    size: 23px;
+    font:bold;
+    font-size: medium;
+    color: #505149;
+    margin-top: 19px;
+}
+.siva h1{
+  margin-bottom: 20px;
+}
+.siv{
+  /* border-bottom: 3px solid #dfdedf; */
+  width:97%;
+  margin-left: 10px; 
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  size: 23px;
+  font:bold;
+  font-size: medium;
+  color: #505149;
+  margin-top: 19px;
+}
+.siv h1{
+margin-bottom: 20px;
+}
+.kar{
+  display: flex;
+  margin-left: 130px;
+}
+.kartext{
+  margin-left: 20px;
+  text-align: center;
+  color:#111111;
+  width:180px;
+  margin-bottom: 20px;
+}
+.karvalue{
+  margin-left: 20px;
+  text-align: center;
+  color:#111111
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position:relative2;
+  display: block;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
